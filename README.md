@@ -4,8 +4,6 @@ An interactive data visualization exploring Netflix's global content catalog —
 
 Built with React + D3.js as a portfolio project for Netflix's Data Visualization Engineering Internship.
 
-**[Live Demo →](https://wooyoungkang123.github.io/content-atlas/)**
-
 ---
 
 ## Visualizations
